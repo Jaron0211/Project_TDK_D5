@@ -1,0 +1,9 @@
+/*
+ *  THIS IS FOR THE FUNCTION VARIBLE AND BOOLEAN 
+ */
+
+//TAKE_OFF_VALUE
+boolean TAKE_OFF_CHECK = 1;
+
+//TIMER VALUE,USING IN AUTO
+unsigned long timer ;

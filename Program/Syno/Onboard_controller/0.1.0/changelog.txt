@@ -1,0 +1,1 @@
+because change to pixhawk, need to use PPM/Sbus system,so change the program
